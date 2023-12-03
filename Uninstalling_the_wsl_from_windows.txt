@@ -2,7 +2,7 @@ Uninstall the wsl from windows 11
 ------------------------------------------
 
 #Click on pc
-	- see the icon for wsl
+	-here you find the icon for wsl
 
 #Check wsl version
 
