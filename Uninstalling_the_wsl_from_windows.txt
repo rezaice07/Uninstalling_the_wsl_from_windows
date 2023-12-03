@@ -1,0 +1,22 @@
+Uninstall the wsl from windows 11
+------------------------------------------
+
+#Click on pc
+	- see the icon for wsl
+
+#Check wsl version
+
+wsl -l -v
+
+#Now go to the program and features
+	program and features/Turn Windows features on or off
+		- find here for "Windows Subsystem for Linx"
+		
+
+#Now check the wsl
+
+wsl -l -v
+
+**Nothing to be shown and this is because the uninstall process has been completed.
+
+Thanks for watching....
